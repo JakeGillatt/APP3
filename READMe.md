@@ -1,4 +1,4 @@
-# new feature added (TEST) NEW TEST 000000000000000
+# new test for merge -----
 
 # Let's build a Continuous Integration and Continuous Delivery/Deployment (CICD) Pipeline
 ## Jenkins CI job Testing
