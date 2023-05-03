@@ -1,4 +1,4 @@
-# new feature added (TEST) DEV EC2
+# new feature added (TEST) DEV TEST 2
 
 # Let's build a Continuous Integration and Continuous Delivery/Deployment (CICD) Pipeline
 ## Jenkins CI job Testing
